@@ -1,6 +1,6 @@
 # WT-ReID
 
-Metadata for **WT-ReID**, a benchmark for pure-texture wildlife individual re-identification, assembled from six subsets of **WildlifeReID-10K**~[1].
+Metadata for **WT-ReID**, a benchmark for pure-texture wildlife individual re-identification, assembled from six subsets of **WildlifeReID-10K**.
 
 > **No images are distributed in this repository.** The underlying imagery remains the property of its original publishing teams. This repository releases the benchmark metadata only (a single CSV file), which fully determines the WT-ReID benchmark when combined with the WildlifeReID-10K imagery.
 
